@@ -1,4 +1,4 @@
-# 🚀 ZAP Automation Tool
+#  ZAP Automation Tool
 
 Automated web security baseline scanning tool integrated with **OWASP ZAP** (OWASP Zed Attack Proxy) and fully containerized with **Docker**. 
 
@@ -6,7 +6,7 @@ This tool is designed to dynamically accept targets, perform format validations 
 
 ---
 
-## 🛠️ Features
+##  Features
 * **Dynamic Input Handling:** Interactive CLI environment that loops until a valid target is provided.
 * **Auto-Protocol Enforcement:** Automatically prepends `https://` if the target is missing a web protocol.
 * **Dockerized & Portable:** Zero local dependencies required. Runs securely inside an isolated scratch environment.
@@ -14,7 +14,7 @@ This tool is designed to dynamically accept targets, perform format validations 
 
 ---
 
-## 🚀 How to Run (For Users)
+##  How to Run (For Users)
 
 You do **not** need the source code, `Dockerfile`, or `tarama.sh` to run this tool. It is publicly available on Docker Hub.
 
